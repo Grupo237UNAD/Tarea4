@@ -1,0 +1,6 @@
+2026-05-01 15:07:12.280810 - Datos del cliente inválidos
+2026-05-01 15:07:12.282279 - Error en simulación: Datos del cliente inválidos
+2026-05-01 15:07:12.283152 - Datos del cliente inválidos
+2026-05-01 15:07:12.283911 - Error en simulación: Datos del cliente inválidos
+2026-05-01 15:07:12.284607 - Duración inválida
+2026-05-01 15:07:12.285221 - Error en simulación: Duración inválida

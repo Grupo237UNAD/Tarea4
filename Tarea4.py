@@ -1,6 +1,5 @@
 # SISTEMA SOFTWARE FJ (POO + EXCEPCIONES)
 
-# ------------------------------
 # 1. IMPORTACIONES
 # ------------------------------
 from abc import ABC, abstractmethod
